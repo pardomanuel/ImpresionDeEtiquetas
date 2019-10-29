@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\bin\Debug\ModuloImpresion.exe.config
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.FrmPrincipal.resources
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.Properties.Resources.resources
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\bin\Debug\ModuloImpresion.exe
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\bin\Debug\ModuloImpresion.pdb
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.exe
+C:\Users\user\Desktop\ModuloImpresion\ModuloImpresion\obj\Debug\ModuloImpresion.pdb
+C:\Users\user\Desktop\ModuloImpresion - copia\ModuloImpresion\bin\Debug\ModuloImpresion.exe.config
+C:\Users\user\Desktop\ModuloImpresion - copia\ModuloImpresion\obj\Debug\ModuloImpresion.exe
+C:\Users\user\Desktop\ModuloImpresion - copia\ModuloImpresion\obj\Debug\ModuloImpresion.pdb
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\bin\Debug\ModuloImpresion.exe.config
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.exe
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.pdb
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\bin\Debug\ABD2507New.mdb
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\bin\Debug\ModuloImpresion.exe
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\bin\Debug\ModuloImpresion.pdb
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.FrmPrincipal.resources
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.Properties.Resources.resources
+C:\Users\user\Desktop\ModuloImpresion - OK\ModuloImpresion\obj\Debug\ModuloImpresion.csproj.GenerateResource.Cache
